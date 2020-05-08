@@ -1,6 +1,7 @@
 
 # Ejercicio 1, sección 2.8, capítulo 2 ------------------------------------
 
+
 library(shiny)
 
 ui <- fluidPage(
